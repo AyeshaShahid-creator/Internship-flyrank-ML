@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://huggingface.co/spaces/AyeshaShahid-creator/flyrank-capstone
